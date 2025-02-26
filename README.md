@@ -18,4 +18,4 @@ After finalizing the dataset, I imported it into Tableau to create a series of i
 
 
 Link to Tableau Visualization:
-https://public.tableau.com/app/profile/tomiwa.atobiloye/viz/NigeriasPerformanceintheLast3AFCONEditions/NigeriasPastAFCONPerformanceDashboard1
+https://public.tableau.com/app/profile/tomiwa.atobiloye/viz/NigeriasPerformanceintheLast3AFCONEditions/NigeriasPerformanceintheLast3AFCONEditions
